@@ -3,6 +3,7 @@
 ## Instructions
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
+<<<<<<< HEAD
 
 	* for loop
 		Performs repetition of code until desired condition is met.
@@ -29,13 +30,25 @@
 
 	* GitHub
 		An online service that uses Git to distribute versions of code and manage collaborators.
+=======
+		
+	* for loop
+	* && || !
+	* Array
+	* git
+	* GitHub
+>>>>>>> 0a22c80b21a5d61ae00adabcc3031accdf7ed13e
 
 
 2. Install git.  https://git-scm.com/downloads
 
 
 3. Fork and clone this repo.  When you need to commit use the following commands.
+<<<<<<< HEAD
 
+=======
+		
+>>>>>>> 0a22c80b21a5d61ae00adabcc3031accdf7ed13e
 	* git status
 	* git add --all
 	* git status
